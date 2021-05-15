@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/Tuumix/count.svg)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tuumix" alt="tuumix" /></p>
 
 # Wellington Hiroshi Takano
  
