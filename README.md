@@ -1,4 +1,4 @@
-![Visitor Count](https : //profile-counter.glitch.me/Tuumix/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Tuumix/count.svg)
 
 # Wellington Hiroshi Takano
  
