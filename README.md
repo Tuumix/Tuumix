@@ -1,3 +1,5 @@
+![Visitor Count](https : //profile-counter.glitch.me/Tuumix/count.svg)
+
 # Wellington Hiroshi Takano
  
  Sup, guys! My name is Wellington but you can call me tumi like everybody does. I'm graduated in [Bachelor of Computer Science](https://www.unoeste.br/graduacao/ciencia-computacao) and currently living in São Paulo :brazil: .  
