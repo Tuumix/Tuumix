@@ -2,7 +2,7 @@
 
 # Wellington Hiroshi Takano
  
- Sup, guys! My name is Wellington but you can call me tumi like everybody does. I'm graduated in [Bachelor of Computer Science](https://www.unoeste.br/graduacao/ciencia-computacao) and currently living in São Paulo :brazil: .  
+ Sup, guys! My name is Wellington but you can call me tumi like everybody does. I'm graduated in [Bachelor of Computer Science](https://www.unoeste.br/graduacao/ciencia-computacao) and currently living in São Paulo [top](#flags):brazil:.  
  
 ## Techs and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
