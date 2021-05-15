@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tuumix" alt="tuumix" /></p>
 
-# Hi, welcome to my github :vulcan_salute:	
+# Hi, welcome to my github :v:	
  
  Sup, guys! My name is Wellington but you can call me tumi like everybody does. I'm graduated in [Bachelor of Computer Science](https://www.unoeste.br/graduacao/ciencia-computacao) and currently living in São Paulo/:brazil:. 
  
