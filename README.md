@@ -4,7 +4,7 @@
  
  Sup, guys! My name is Wellington but you can call me tumi like everybody does. I'm graduated in [Bachelor of Computer Science](https://www.unoeste.br/graduacao/ciencia-computacao) and currently living in São Paulo :brazil: .  
  
-### Techs and tools
+## Techs and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
