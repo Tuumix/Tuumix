@@ -18,14 +18,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  
 ## GitHub Status
-<table>
- <tr>
-  <td>
-   ![tuumix github stats](https://github-readme-stats.vercel.app/api?username=tuumix&show_icons=true&theme=nightowl)
-  </td>
- </tr>
-</table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuumix&layout=compact&theme=nightowl)](https://github.com/Tuumix/github-readme-stats)
+ ![tuumix github stats](https://github-readme-stats.vercel.app/api?username=tuumix&show_icons=true&theme=nightowl)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuumix&layout=compact&theme=nightowl)](https://github.com/Tuumix/github-readme-stats)
 
 ## <img height="25" src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif"/> Reach me on
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wellington-takano/)
