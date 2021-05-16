@@ -24,7 +24,7 @@
 
 ## Languages
  <i>Portuguese</i> </br>
- <i>Japanese:</i> </br>
+ <i>Japanese</i> </br>
  <i>English</i> </br>
  
 ## Hobbys
