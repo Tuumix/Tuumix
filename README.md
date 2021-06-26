@@ -3,7 +3,7 @@
 # Hi, welcome to my github :v:	
  
  Sup, guys! My name is Wellington but you can call me tumi like everybody does. I'm graduated in [Bachelor of Computer Science](https://www.unoeste.br/graduacao/ciencia-computacao) and currently living in São Paulo/:brazil:. 
- I have experience with React/React Native which I loved to develop using these libraries :heart: but currently I'm studying for full stack developer. 
+ I have experience with React/React Native which I loved to develop using these libraries :heart: but currently I'm working as full stack developer with Angular and Spring Boot. 
  
 ## Techs and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
