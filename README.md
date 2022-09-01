@@ -31,7 +31,7 @@
 ## Hobbys
  <i>Guitar 🎸</i> </br>
  <i>Video Games 🎮</i> </br>
- <i>Gym</i> </br>
+ <i>Bodybuilding</i> </br>
  
 ## <img height="25" src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif"/> Reach me on
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wellington-takano/)
