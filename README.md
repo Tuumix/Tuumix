@@ -20,7 +20,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-181717?style=flat-square&logo=angular)
 
 ## GitHub Status
- ![tuumix github stats](https://github-readme-stats.vercel.app/api?username=tuumix&show_icons=true&theme=nightowl)
+ ![tuumix github stats](https://github-readme-stats.vercel.app/api?username=Tuumix&show_icons=true&theme=nightowl)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuumix&layout=compact&theme=nightowl)](https://github.com/Tuumix/github-readme-stats)
 
 ## Languages
